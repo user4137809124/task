@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Дефекты приложения",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Проблемы окружения",
+    "matchedStatuses": ["broken"]
+  }
+]
